@@ -1,0 +1,102 @@
+PHP Version: 8.2.20
+Upload max filesize: 10M
+Post max size: 10M
+Memory limit: 256M
+Upload attempt - Content Length: 0 bytes
+Upload script started
+Session: Array
+(
+)
+
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+[2024-10-19 22:00:26] Upload script started
+[2024-10-19 22:00:26] PHP Version: 8.2.20
+[2024-10-19 22:00:26] Upload max filesize: 10M
+[2024-10-19 22:00:26] Post max size: 10M
+[2024-10-19 22:00:26] Memory limit: 256M
+[2024-10-19 22:00:26] Content Length: 12360
+[2024-10-19 22:00:26] FILES: Array
+(
+    [document] => Array
+        (
+            [name] => kw.docx
+            [full_path] => kw.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => /Applications/MAMP/tmp/php/phpO9vDoK
+            [error] => 0
+            [size] => 12016
+        )
+
+)
+
+[2024-10-19 22:00:26] File uploaded successfully: uploads/kw.docx
+[2024-10-19 22:02:20] Upload script started
+[2024-10-19 22:02:20] PHP Version: 8.2.20
+[2024-10-19 22:02:20] Upload max filesize: 10M
+[2024-10-19 22:02:20] Post max size: 10M
+[2024-10-19 22:02:20] Memory limit: 256M
+[2024-10-19 22:02:20] Content Length: 33098
+[2024-10-19 22:02:20] FILES: Array
+(
+    [document] => Array
+        (
+            [name] => Лабораторная работа №6.doc
+            [full_path] => Лабораторная работа №6.doc
+            [type] => application/msword
+            [tmp_name] => /Applications/MAMP/tmp/php/phpREa6QH
+            [error] => 0
+            [size] => 32768
+        )
+
+)
+
+[2024-10-19 22:02:20] File uploaded successfully: uploads/Лабораторная работа №6.doc
+[2024-10-19 22:08:04] Upload script started
+[2024-10-19 22:08:04] PHP Version: 8.2.20
+[2024-10-19 22:08:04] Upload max filesize: 10M
+[2024-10-19 22:08:04] Post max size: 10M
+[2024-10-19 22:08:04] Memory limit: 256M
+[2024-10-19 22:08:04] Content Length: 30026
+[2024-10-19 22:08:04] FILES: Array
+(
+    [document] => Array
+        (
+            [name] => Лабораторная работа №7.doc
+            [full_path] => Лабораторная работа №7.doc
+            [type] => application/msword
+            [tmp_name] => /Applications/MAMP/tmp/php/phpfKcbFh
+            [error] => 0
+            [size] => 29696
+        )
+
+)
+
+[2024-10-19 22:08:04] File uploaded successfully: uploads/Лабораторная работа №7.doc
+[2024-10-19 22:13:38] Upload script started
+[2024-10-19 22:13:38] PHP Version: 8.2.20
+[2024-10-19 22:13:38] Upload max filesize: 10M
+[2024-10-19 22:13:38] Post max size: 10M
+[2024-10-19 22:13:38] Memory limit: 256M
+[2024-10-19 22:13:38] Content Length: 12357
+[2024-10-19 22:13:38] FILES: Array
+(
+    [document] => Array
+        (
+            [name] => kw.docx
+            [full_path] => kw.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => /Applications/MAMP/tmp/php/phpiJX254
+            [error] => 0
+            [size] => 12016
+        )
+
+)
+
+[2024-10-19 22:13:38] File uploaded successfully: uploads/kw.docx
